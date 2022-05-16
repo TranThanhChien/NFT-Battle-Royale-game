@@ -1,2 +1,2 @@
-# nodejs_etherium_chien
+# NFT battle royale game
 building smart contracts
